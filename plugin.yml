@@ -4,3 +4,9 @@ version: 3.0.0
 api: 3.0.0
 main: AidenKR\ScaleManager\ScaleManager
 github: https://github.com/Le0onKR
+
+permissions:
+ scale.command:
+  default: op
+  scale.shop.command:
+  default: true
